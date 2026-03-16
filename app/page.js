@@ -1,4 +1,4 @@
-import BusTable from "../components/BusTable"
+import bustable from "../components/bustable"
 
 export default function Home(){
 
